@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 *.su
+[Dd]ebug
+[Bb]in
+[Rr]lease
+/ConsoleApplication1/.vs/ConsoleApplication1/v14
